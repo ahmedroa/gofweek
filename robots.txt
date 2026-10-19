@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gofweek.com/sitemap.xml
